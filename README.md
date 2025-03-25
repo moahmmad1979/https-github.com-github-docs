@@ -18,7 +18,7 @@ The Google AI Python SDK is the easiest way for Python developers to build with 
 See the [Gemini API Cookbook](https://github.com/google-gemini/gemini-api-cookbook/) or [ai.google.dev](https://ai.google.dev) for complete code.
 
 1. Install from [PyPI](https://pypi.org/project/google-generativeai).
-
+https://aistudio.instagram.com/create/?utm_source=ig_adv_creation&id=521550647658818
 `pip install -U google-generativeai`
 
 2. Import the SDK and configure your API key.
